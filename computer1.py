@@ -1,2 +1,2 @@
 # 1
-# 2 - computer 2 fixed
+# 2 - computer 2 haha
