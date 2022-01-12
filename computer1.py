@@ -1,2 +1,2 @@
 # 1
-# 2 - computer 2
+# 2 - computer 2 fixed
